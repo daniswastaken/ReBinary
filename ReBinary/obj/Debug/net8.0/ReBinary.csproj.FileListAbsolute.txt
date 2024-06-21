@@ -1,0 +1,14 @@
+c:\Users\daniswastaken\Documents\Code\Binary to Decimal\ReBinary\bin\Debug\net8.0\ReBinary.exe
+c:\Users\daniswastaken\Documents\Code\Binary to Decimal\ReBinary\bin\Debug\net8.0\ReBinary.deps.json
+c:\Users\daniswastaken\Documents\Code\Binary to Decimal\ReBinary\bin\Debug\net8.0\ReBinary.runtimeconfig.json
+c:\Users\daniswastaken\Documents\Code\Binary to Decimal\ReBinary\bin\Debug\net8.0\ReBinary.dll
+c:\Users\daniswastaken\Documents\Code\Binary to Decimal\ReBinary\bin\Debug\net8.0\ReBinary.pdb
+c:\Users\daniswastaken\Documents\Code\Binary to Decimal\ReBinary\obj\Debug\net8.0\ReBinary.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\daniswastaken\Documents\Code\Binary to Decimal\ReBinary\obj\Debug\net8.0\ReBinary.AssemblyInfoInputs.cache
+c:\Users\daniswastaken\Documents\Code\Binary to Decimal\ReBinary\obj\Debug\net8.0\ReBinary.AssemblyInfo.cs
+c:\Users\daniswastaken\Documents\Code\Binary to Decimal\ReBinary\obj\Debug\net8.0\ReBinary.csproj.CoreCompileInputs.cache
+c:\Users\daniswastaken\Documents\Code\Binary to Decimal\ReBinary\obj\Debug\net8.0\ReBinary.dll
+c:\Users\daniswastaken\Documents\Code\Binary to Decimal\ReBinary\obj\Debug\net8.0\refint\ReBinary.dll
+c:\Users\daniswastaken\Documents\Code\Binary to Decimal\ReBinary\obj\Debug\net8.0\ReBinary.pdb
+c:\Users\daniswastaken\Documents\Code\Binary to Decimal\ReBinary\obj\Debug\net8.0\ReBinary.genruntimeconfig.cache
+c:\Users\daniswastaken\Documents\Code\Binary to Decimal\ReBinary\obj\Debug\net8.0\ref\ReBinary.dll
