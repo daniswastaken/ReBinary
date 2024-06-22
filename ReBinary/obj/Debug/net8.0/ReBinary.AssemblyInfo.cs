@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReBinary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+444297d4048fc48cfccf9dbee352229902760b7a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd9d9487e335b5c7b2bdb39778ee7370f6c226f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReBinary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReBinary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
