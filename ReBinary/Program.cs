@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace ReBinary
 {
@@ -6,7 +7,12 @@ namespace ReBinary
     {
         static void Main()
         {
-            Console.WriteLine("Hello, world!");
+            string number = "11111";
+            int result = number.Reverse()
+                .Select((c, i) => (c - '0') * (1 << i))
+                .Sum();
+
+            Console.WriteLine(result);
         }
     }
 }

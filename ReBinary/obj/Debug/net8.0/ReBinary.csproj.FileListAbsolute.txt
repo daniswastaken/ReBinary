@@ -12,3 +12,4 @@ c:\Users\daniswastaken\Documents\Code\Binary to Decimal\ReBinary\obj\Debug\net8.
 c:\Users\daniswastaken\Documents\Code\Binary to Decimal\ReBinary\obj\Debug\net8.0\ReBinary.pdb
 c:\Users\daniswastaken\Documents\Code\Binary to Decimal\ReBinary\obj\Debug\net8.0\ReBinary.genruntimeconfig.cache
 c:\Users\daniswastaken\Documents\Code\Binary to Decimal\ReBinary\obj\Debug\net8.0\ref\ReBinary.dll
+c:\Users\daniswastaken\Documents\Code\Binary to Decimal\ReBinary\obj\Debug\net8.0\ReBinary.sourcelink.json
