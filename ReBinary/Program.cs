@@ -21,8 +21,7 @@ namespace binaryToDecimal
                 // Checking if the user input is number or not
                 if (!choice.All(c => c == '1' || c == '2' || c == '3'))
                 {
-                    Console.WriteLine("Invalid option. Please enter a valid option.");
-                    return;
+                    Console.WriteLine("Invalid choice. Please enter 1, 2, or 3.");
                 }
 
 
@@ -37,9 +36,6 @@ namespace binaryToDecimal
                     case "3":
                         Console.WriteLine("Exiting the program.");
                         return; // Exit the program
-                    default:
-                        Console.WriteLine("Invalid choice. Please enter 1, 2, or 3.");
-                        break;
                 }
 
                 Console.WriteLine(); // Blank line for readability
