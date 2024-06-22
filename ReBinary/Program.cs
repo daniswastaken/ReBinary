@@ -7,6 +7,47 @@ namespace binaryToDecimal
     {
         static void Main()
         {
+            // Choosing what to convert
+            while (true) // Loop until the user chooses to exit
+            {
+                Console.WriteLine("Choose an option:");
+                Console.WriteLine("1. Binary to Decimal");
+                Console.WriteLine("2. Decimal to Binary");
+                Console.WriteLine("3. Exit");
+
+                Console.Write("Enter your choice (1, 2, or 3): ");
+                string? choice = Console.ReadLine()?.Trim() ?? string.Empty;
+
+                // Checking if the user input is number or not
+                if (!choice.All(c => c == '1' || c == '2' || c == '3'))
+                {
+                    Console.WriteLine("Invalid option. Please enter a valid option.");
+                    return;
+                }
+
+
+                switch (choice)
+                {
+                    case "1":
+                        BinaryToDecimalConverter();
+                        break;
+                    case "2":
+                        DecimalToBinaryConverter();
+                        break;
+                    case "3":
+                        Console.WriteLine("Exiting the program.");
+                        return; // Exit the program
+                    default:
+                        Console.WriteLine("Invalid choice. Please enter 1, 2, or 3.");
+                        break;
+                }
+
+                Console.WriteLine(); // Blank line for readability
+            }
+        }
+
+        static void BinaryToDecimalConverter()
+        {
             Console.WriteLine("Enter binary number:");
             string? input = Console.ReadLine()?.Trim() ?? string.Empty;
 
@@ -23,14 +64,7 @@ namespace binaryToDecimal
 
             Console.WriteLine($"Decimal value: {result}");
         }
-    }
-}
-
-namespace decimalToBinary
-{
-    class Program
-    {
-        static void Main()
+        static void DecimalToBinaryConverter()
         {
             Console.WriteLine("Enter decimal number:");
             string decimalNumberInput = Console.ReadLine()?.Trim() ?? string.Empty;
@@ -74,3 +108,4 @@ namespace decimalToBinary
         }
     }
 }
+
